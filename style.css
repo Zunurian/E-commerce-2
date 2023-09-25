@@ -30,6 +30,10 @@ nav ul li{
     margin-right: 20px;
 
 }
+
+.header{
+    background: radial-gradient(#fff,#ffd6d6);
+}
 a{
     text-decoration: none;
     color: rgb(13, 13, 163);
@@ -44,6 +48,7 @@ p{
     margin: auto;
     padding-left: 25px;
     padding-right: 25px;
+    
 }
 
 .row{
